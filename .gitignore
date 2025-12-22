@@ -1,0 +1,4 @@
+/target
+
+# Puzzle inputs are personal, don't commit them
+**/input.txt
